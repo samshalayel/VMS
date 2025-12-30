@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(php -m:*)",
+      "Bash(php:*)",
+      "Bash(composer require:*)",
+      "Bash(cat:*)",
+      "Bash(composer dump-autoload:*)",
+      "Bash(DB_SERVICE_NAME=freepdb1:*)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}

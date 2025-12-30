@@ -1,0 +1,14 @@
+{
+    "name": "vms/clickup-integration",
+    "description": "Vendor Management System with ClickUp Integration",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "VMS\\": "src/"
+        }
+    }
+}

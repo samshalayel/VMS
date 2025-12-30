@@ -1,0 +1,1145 @@
+{
+    "extracted_at": "2025-12-29 13:16:34",
+    "total_count": 140,
+    "statistics": {
+        "total": 140,
+        "by_governorate": {
+            "North Gaza": 11,
+            "Gaza": 31,
+            "Middle Zone": 48,
+            "Khanyounis": 50
+        },
+        "by_type": {
+            "Medical Point": 59,
+            "PHC": 63,
+            "Mobile vehicle": 2,
+            "": 5,
+            "Hospital": 3,
+            "Field Hospital": 8
+        },
+        "with_storage": 129,
+        "excluded_rafah": 0
+    },
+    "facilities": [
+        {
+            "row": 4,
+            "governorate": "North Gaza",
+            "name": "PRCS Vehicle Mobile Team-1 Al-Amn Al'am Team-1",
+            "storage_level": "Sub-Central",
+            "distribution_site": "",
+            "type": "Medical Point"
+        },
+        {
+            "row": 5,
+            "governorate": "North Gaza",
+            "name": "PRCS Vehicle Mobile Team-1 Al-Amn Al'am Team-2",
+            "storage_level": "Sub-Central",
+            "distribution_site": "",
+            "type": "Medical Point"
+        },
+        {
+            "row": 6,
+            "governorate": "North Gaza",
+            "name": "Al-Saftawi Clinic",
+            "storage_level": "Sub-Central",
+            "distribution_site": "",
+            "type": "PHC"
+        },
+        {
+            "row": 7,
+            "governorate": "North Gaza",
+            "name": "Al-Saftawi Clinic",
+            "storage_level": "",
+            "distribution_site": "",
+            "type": "PHC"
+        },
+        {
+            "row": 8,
+            "governorate": "North Gaza",
+            "name": "Halawa clinic Team- Al-Awda point",
+            "storage_level": "Sub-Central",
+            "distribution_site": "",
+            "type": "Medical Point"
+        },
+        {
+            "row": 9,
+            "governorate": "North Gaza",
+            "name": "Baytuna \"Fursan center\"",
+            "storage_level": "Sub-Central",
+            "distribution_site": "",
+            "type": "Medical Point"
+        },
+        {
+            "row": 10,
+            "governorate": "North Gaza",
+            "name": "PMRS Tal Elzatar",
+            "storage_level": "Sub-Central",
+            "distribution_site": "",
+            "type": "Medical Point"
+        },
+        {
+            "row": 11,
+            "governorate": "North Gaza",
+            "name": "Haider Abd-El-Shafi clinic \"Al-Sitta Alshohada\"",
+            "storage_level": "Sub-Central",
+            "distribution_site": "",
+            "type": "Medical Point"
+        },
+        {
+            "row": 12,
+            "governorate": "North Gaza",
+            "name": "Halyma Al-Sa'deyya clinic",
+            "storage_level": "Sub-Central",
+            "distribution_site": "",
+            "type": "Medical Point"
+        },
+        {
+            "row": 13,
+            "governorate": "North Gaza",
+            "name": "Contegency Mobile Team-1 MOH Vehicle",
+            "storage_level": "Sub-Central",
+            "distribution_site": "",
+            "type": "Mobile vehicle"
+        },
+        {
+            "row": 14,
+            "governorate": "North Gaza",
+            "name": "Contegency Mobile Team-2 MOH Vehicle",
+            "storage_level": "Sub-Central",
+            "distribution_site": "",
+            "type": "Mobile vehicle"
+        },
+        {
+            "row": 16,
+            "governorate": "Gaza",
+            "name": "Al Sabra Clinic - PRCS Team-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "Medical Point"
+        },
+        {
+            "row": 17,
+            "governorate": "Gaza",
+            "name": "Al Sabra Clinic - PRCS Team-2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "Medical Point"
+        },
+        {
+            "row": 18,
+            "governorate": "Gaza",
+            "name": "Al Sahaba Clinic - PRCS Team-1",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Shuhada Al Daraj Health Center Taem-1",
+            "type": "Medical Point"
+        },
+        {
+            "row": 19,
+            "governorate": "Gaza",
+            "name": "Al-Quds hospital PRCS-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 20,
+            "governorate": "Gaza",
+            "name": "Al-Quds hospital PRCS-2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 21,
+            "governorate": "Gaza",
+            "name": "Al-Saraya clinic PRCS",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Shuhada Al Daraj Health Center Taem-1",
+            "type": "Medical Point"
+        },
+        {
+            "row": 22,
+            "governorate": "Gaza",
+            "name": "Al-Salam Center Team-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 23,
+            "governorate": "Gaza",
+            "name": "Al-Salam Center Team-2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 24,
+            "governorate": "Gaza",
+            "name": "Al-Shati Martyr Center Team -1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 25,
+            "governorate": "Gaza",
+            "name": "Al-Shati Martyr Center Team -2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 26,
+            "governorate": "Gaza",
+            "name": "Al-Shati' Primary health Care Center \/MdM-F",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Al-Shati Martyr Center Team -1",
+            "type": "PHC"
+        },
+        {
+            "row": 27,
+            "governorate": "Gaza",
+            "name": "Atsma School UNRWA",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "Medical Point"
+        },
+        {
+            "row": 28,
+            "governorate": "Gaza",
+            "name": "Salah El-Deen",
+            "storage_level": "",
+            "distribution_site": "Atsma School UNRWA",
+            "type": "Medical Point"
+        },
+        {
+            "row": 29,
+            "governorate": "Gaza",
+            "name": "Al-daraj",
+            "storage_level": "",
+            "distribution_site": "Shuhada Al Daraj Health Center Taem-2",
+            "type": "Medical Point"
+        },
+        {
+            "row": 30,
+            "governorate": "Gaza",
+            "name": "Al-Rimal clinic",
+            "storage_level": "",
+            "distribution_site": "Al-Salam Center Team-2",
+            "type": "Medical Point"
+        },
+        {
+            "row": 31,
+            "governorate": "Gaza",
+            "name": "Al-Zaytoun Clinic - PRCS Team-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 32,
+            "governorate": "Gaza",
+            "name": "Al-Zaytoun Clinic - PRCS Team-2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 33,
+            "governorate": "Gaza",
+            "name": "Heroic Hearts Al Mostafa PHC",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 34,
+            "governorate": "Gaza",
+            "name": "Heroic Hearts Al Yasmin Primary Care",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 35,
+            "governorate": "Gaza",
+            "name": "Juzoor medical point at Al-Nasser School",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Al-Shati Martyr Center Team -1",
+            "type": "Medical Point"
+        },
+        {
+            "row": 36,
+            "governorate": "Gaza",
+            "name": "Juzoor medical point at Holy Family School",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Shuhada Al Daraj Health Center Taem-1",
+            "type": "Medical Point"
+        },
+        {
+            "row": 37,
+            "governorate": "Gaza",
+            "name": "Muscat Clinic (Sabra) Taem-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 38,
+            "governorate": "Gaza",
+            "name": "Muscat Clinic (Sabra) Taem-2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 39,
+            "governorate": "Gaza",
+            "name": "عيادة MSF بلجيكا-بجوار م.الشفاء",
+            "storage_level": "",
+            "distribution_site": "",
+            "type": ""
+        },
+        {
+            "row": 40,
+            "governorate": "Gaza",
+            "name": "مستشفى حيفا الخيري",
+            "storage_level": "",
+            "distribution_site": "",
+            "type": ""
+        },
+        {
+            "row": 41,
+            "governorate": "Gaza",
+            "name": "مركز صحي اربكان",
+            "storage_level": "",
+            "distribution_site": "",
+            "type": ""
+        },
+        {
+            "row": 42,
+            "governorate": "Gaza",
+            "name": "Sheikh Radwan Martyrs Center Team-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 43,
+            "governorate": "Gaza",
+            "name": "Sheikh Radwan Martyrs Center Team-2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 44,
+            "governorate": "Gaza",
+            "name": "Shuhada Al Daraj Health Center Taem-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 45,
+            "governorate": "Gaza",
+            "name": "Shuhada Al Daraj Health Center Taem-2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 46,
+            "governorate": "Gaza",
+            "name": "Blood Bank Gaza City",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "Medical Point"
+        },
+        {
+            "row": 48,
+            "governorate": "Middle Zone",
+            "name": "Solidarity Polyclinic (MAP)",
+            "storage_level": "",
+            "distribution_site": "Deir Al-Balah center",
+            "type": "PHC"
+        },
+        {
+            "row": 49,
+            "governorate": "Middle Zone",
+            "name": "Palestine technical college medical point, Deir Al Balah (ACHA)",
+            "storage_level": "",
+            "distribution_site": "Al-Zawaydeh Center Team-1",
+            "type": "Medical Point"
+        },
+        {
+            "row": 50,
+            "governorate": "Middle Zone",
+            "name": "Fathi Arafat PHC - PRCS",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 51,
+            "governorate": "Middle Zone",
+            "name": "Al-Sawarha (Al-Khawaldeh) Center",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Al-Zawaydeh Center Team-1",
+            "type": "PHC"
+        },
+        {
+            "row": 52,
+            "governorate": "Middle Zone",
+            "name": "Tayara Clinic",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Shuhada Deir Al-Balah Health Clinic Team-1",
+            "type": "PHC"
+        },
+        {
+            "row": 53,
+            "governorate": "Middle Zone",
+            "name": "CARE PHCC -Deir Al-Balah",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Shuhada Deir Al-Balah Health Clinic Team-2",
+            "type": "PHC"
+        },
+        {
+            "row": 54,
+            "governorate": "Middle Zone",
+            "name": "Nusirat Health Center Team-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 55,
+            "governorate": "Middle Zone",
+            "name": "Nusirat Health Center Team-2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 56,
+            "governorate": "Middle Zone",
+            "name": "Deir Al-Balah center Team-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 57,
+            "governorate": "Middle Zone",
+            "name": "Deir Al-Balah center Team-2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 58,
+            "governorate": "Middle Zone",
+            "name": "Hikr Aljame School",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Shuhada Deir Al-Balah Health Clinic Team-2",
+            "type": "Medical Point"
+        },
+        {
+            "row": 59,
+            "governorate": "Middle Zone",
+            "name": "Almazraa School",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Shuhada Deir Al-Balah Health Clinic Team-2",
+            "type": "Medical Point"
+        },
+        {
+            "row": 60,
+            "governorate": "Middle Zone",
+            "name": "West Nusairat clinic Team-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 61,
+            "governorate": "Middle Zone",
+            "name": "West Nusairat clinic Team-2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 62,
+            "governorate": "Middle Zone",
+            "name": "Alhasayneh School",
+            "storage_level": "Sub-Central",
+            "distribution_site": "West Nusairat clinic Team-1",
+            "type": "Medical Point"
+        },
+        {
+            "row": 63,
+            "governorate": "Middle Zone",
+            "name": "Alsawarha school",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Al-Zawaydeh Center Team-1",
+            "type": "Medical Point"
+        },
+        {
+            "row": 64,
+            "governorate": "Middle Zone",
+            "name": "Al-Maghazi Clinic",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 65,
+            "governorate": "Middle Zone",
+            "name": "Al-Bahr Primary Health Care Center \/MdM F",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Deir Al-Balah center",
+            "type": "PHC"
+        },
+        {
+            "row": 66,
+            "governorate": "Middle Zone",
+            "name": "Bureij Center Al-Jaded - Shuhada Albureij Team-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 67,
+            "governorate": "Middle Zone",
+            "name": "UK MED FIXED PHC",
+            "storage_level": "Sub-Central",
+            "distribution_site": "IMC field hospital - Middle Area",
+            "type": "PHC"
+        },
+        {
+            "row": 68,
+            "governorate": "Middle Zone",
+            "name": "Al Aqsa Hospital Team-1",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Al-Zawaydeh Center Team-1",
+            "type": "Hospital"
+        },
+        {
+            "row": 69,
+            "governorate": "Middle Zone",
+            "name": "Nuseirat Clinic - PRCS",
+            "storage_level": "Sub-Central",
+            "distribution_site": "West Nusairat clinic Team-2",
+            "type": "Medical Point"
+        },
+        {
+            "row": 70,
+            "governorate": "Middle Zone",
+            "name": "Al-Sawarah Clinic - PRCS",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Al-Zawaydeh Center Team-1",
+            "type": "Medical Point"
+        },
+        {
+            "row": 71,
+            "governorate": "Middle Zone",
+            "name": "Alberka health center",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Shuhada Deir Al-Balah Health Clinic Team-2",
+            "type": "Medical Point"
+        },
+        {
+            "row": 72,
+            "governorate": "Middle Zone",
+            "name": "Al Awda Hospital - Nuseirat",
+            "storage_level": "Sub-Central",
+            "distribution_site": "West Nusairat clinic Team-2",
+            "type": "PHC"
+        },
+        {
+            "row": 73,
+            "governorate": "Middle Zone",
+            "name": "Al-Zawaydeh Center Team-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 74,
+            "governorate": "Middle Zone",
+            "name": "Al zawidah Medical Point - PRCS T",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Al-Zawaydeh Center Team-1",
+            "type": "Medical Point"
+        },
+        {
+            "row": 75,
+            "governorate": "Middle Zone",
+            "name": "Al burij Medical Point - PRCS",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Bureij Center Al-Jaded - Shuhada Albureij Team-1",
+            "type": "Medical Point"
+        },
+        {
+            "row": 76,
+            "governorate": "Middle Zone",
+            "name": "Al-Maghazi Clinic - PRCS",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Al-Maghazi Clinic",
+            "type": "Medical Point"
+        },
+        {
+            "row": 77,
+            "governorate": "Middle Zone",
+            "name": "IMC Field Hospital - Al-Zawaida  Team-1",
+            "storage_level": "Sub-Central",
+            "distribution_site": "IMC field hospital - Middle Area",
+            "type": "Field Hospital"
+        },
+        {
+            "row": 78,
+            "governorate": "Middle Zone",
+            "name": "الفكر الحر",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Shuhada Deir Al-Balah Health Clinic Team-2",
+            "type": "Medical Point"
+        },
+        {
+            "row": 79,
+            "governorate": "Middle Zone",
+            "name": "مركز شهداء النصيرات",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Deir Al-Balah center",
+            "type": "PHC"
+        },
+        {
+            "row": 80,
+            "governorate": "Middle Zone",
+            "name": "المركز الطبي الفلسطيني",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Deir Al-Balah center",
+            "type": "Medical Point"
+        },
+        {
+            "row": 81,
+            "governorate": "Middle Zone",
+            "name": "اتحاد الكنائس",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Deir Al-Balah center",
+            "type": "Medical Point"
+        },
+        {
+            "row": 82,
+            "governorate": "Middle Zone",
+            "name": "مدرسة المفتي",
+            "storage_level": "Sub-Central",
+            "distribution_site": "West Nusairat clinic Team-2",
+            "type": "Medical Point"
+        },
+        {
+            "row": 83,
+            "governorate": "Middle Zone",
+            "name": "Shuhada Deir Al-Balah Health Clinic Team-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 84,
+            "governorate": "Middle Zone",
+            "name": "Shuhada Deir Al-Balah Health Clinic Team-2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 85,
+            "governorate": "Middle Zone",
+            "name": "Tawba Clinic",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Shuhada Deir Al-Balah Health Clinic Team-2",
+            "type": "PHC"
+        },
+        {
+            "row": 86,
+            "governorate": "Middle Zone",
+            "name": "Athar Clinic",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Deir Al-Balah center",
+            "type": "PHC"
+        },
+        {
+            "row": 87,
+            "governorate": "Middle Zone",
+            "name": "Maghazi Center",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Al-Maghazi Clinic",
+            "type": "PHC"
+        },
+        {
+            "row": 88,
+            "governorate": "Middle Zone",
+            "name": "PMRS PHC center - Abu Arief",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Shuhada Deir Al-Balah Health Clinic Team-2",
+            "type": "PHC"
+        },
+        {
+            "row": 89,
+            "governorate": "Middle Zone",
+            "name": "Yaffa Hospital",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Fathi Arafat PHC - PRCS",
+            "type": "PHC"
+        },
+        {
+            "row": 90,
+            "governorate": "Middle Zone",
+            "name": "Alquds PHC",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Fathi Arafat PHC - PRCS",
+            "type": "Medical Point"
+        },
+        {
+            "row": 91,
+            "governorate": "Middle Zone",
+            "name": "AWDA Health Center - Dair Al Balah",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Fathi Arafat PHC - PRCS",
+            "type": "PHC"
+        },
+        {
+            "row": 92,
+            "governorate": "Middle Zone",
+            "name": "IMC field hospital - Middle Area Team-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "Field Hospital"
+        },
+        {
+            "row": 93,
+            "governorate": "Middle Zone",
+            "name": "IMC field hospital - Middle Area Team-2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "Field Hospital"
+        },
+        {
+            "row": 94,
+            "governorate": "Middle Zone",
+            "name": "Al-Jami' Hiker Center",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Shuhada Deir Al-Balah Health Clinic Team-2",
+            "type": "PHC"
+        },
+        {
+            "row": 95,
+            "governorate": "Middle Zone",
+            "name": "Al-Musader clinic",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Al-Maghazi Clinic",
+            "type": "PHC"
+        },
+        {
+            "row": 97,
+            "governorate": "Khanyounis",
+            "name": "Hamad Health clinic Team-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 98,
+            "governorate": "Khanyounis",
+            "name": "Hamad Health clinic Team-2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 99,
+            "governorate": "Khanyounis",
+            "name": "Khanyounis Primary Healthcare Center\/MdMF",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Al-Amal Hospital-Team 1",
+            "type": "PHC"
+        },
+        {
+            "row": 100,
+            "governorate": "Khanyounis",
+            "name": "Khan Younis Prep. Boys \"A\"الحوراني القديمة",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Al-Amal Hospital-Team 1",
+            "type": "Medical Point"
+        },
+        {
+            "row": 101,
+            "governorate": "Khanyounis",
+            "name": "Japanese Health Center Team-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 102,
+            "governorate": "Khanyounis",
+            "name": "Japanese Health Center Team-2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 103,
+            "governorate": "Khanyounis",
+            "name": "Zorob Health Subcentre Team-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 104,
+            "governorate": "Khanyounis",
+            "name": "Zorob Health Subcentre Team-2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 105,
+            "governorate": "Khanyounis",
+            "name": "Emergency NGO - PHC Clinic Al Qarara - Khan Yunis",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Asdaa Medical Point Team-1",
+            "type": "PHC"
+        },
+        {
+            "row": 106,
+            "governorate": "Khanyounis",
+            "name": "PMRS - Medical point Al qubba",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Mawasi HC معمر",
+            "type": "Medical Point"
+        },
+        {
+            "row": 107,
+            "governorate": "Khanyounis",
+            "name": "Huneyn Medical Point Team-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "Medical Point"
+        },
+        {
+            "row": 108,
+            "governorate": "Khanyounis",
+            "name": "Huneyn Medical Point Team-2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "Medical Point"
+        },
+        {
+            "row": 109,
+            "governorate": "Khanyounis",
+            "name": "Shaer",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Zorob Health Subcentre Team-1",
+            "type": "Medical Point"
+        },
+        {
+            "row": 110,
+            "governorate": "Khanyounis",
+            "name": "Mawasi MSF-Spain Fish Fresh Team-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 111,
+            "governorate": "Khanyounis",
+            "name": "Mawasi MSF-Spain Fish Fresh Team-2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 112,
+            "governorate": "Khanyounis",
+            "name": "Emargency Rafah",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Mawasi MSF-Spain Fish Fresh Team-1 Zorob",
+            "type": "Medical Point"
+        },
+        {
+            "row": 113,
+            "governorate": "Khanyounis",
+            "name": "KHY Prep. Girls \"B\"حياة",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Al-Amal Hospital-Team 1",
+            "type": "Medical Point"
+        },
+        {
+            "row": 114,
+            "governorate": "Khanyounis",
+            "name": "Alaqsa B Team-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "Medical Point"
+        },
+        {
+            "row": 115,
+            "governorate": "Khanyounis",
+            "name": "Alaqsa B Team-2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "Medical Point"
+        },
+        {
+            "row": 116,
+            "governorate": "Khanyounis",
+            "name": "Beir 19 Team-1",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Mawasi MSF-Spain Fish Fresh Team-1 Zorob",
+            "type": "Medical Point"
+        },
+        {
+            "row": 117,
+            "governorate": "Khanyounis",
+            "name": "Beir 19 Team-2",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Mawasi MSF-Spain Fish Fresh Team-1 Zorob",
+            "type": "Medical Point"
+        },
+        {
+            "row": 118,
+            "governorate": "Khanyounis",
+            "name": "Mawasi HC معمر Team-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 119,
+            "governorate": "Khanyounis",
+            "name": "Mawasi HC معمر Team-2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "PHC"
+        },
+        {
+            "row": 120,
+            "governorate": "Khanyounis",
+            "name": "El-Najar MP",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Alaqsa B Team-1",
+            "type": "Medical Point"
+        },
+        {
+            "row": 121,
+            "governorate": "Khanyounis",
+            "name": "UK Med Field Hospital",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Mawasi MSF-Spain Fish Fresh Team-1",
+            "type": "Field Hospital"
+        },
+        {
+            "row": 122,
+            "governorate": "Khanyounis",
+            "name": "CFTA Mawasi Medical Point",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Mawasi MSF-Spain Fish Fresh Team-2",
+            "type": "Medical Point"
+        },
+        {
+            "row": 123,
+            "governorate": "Khanyounis",
+            "name": "Al-Tahrir Building Team-1",
+            "storage_level": "Central",
+            "distribution_site": "Al-Amal Hospital-Team 1",
+            "type": "Hospital"
+        },
+        {
+            "row": 124,
+            "governorate": "Khanyounis",
+            "name": "Al-Tahrir Building Team-2",
+            "storage_level": "Central",
+            "distribution_site": "Al-Amal Hospital-Team 1",
+            "type": "Hospital"
+        },
+        {
+            "row": 125,
+            "governorate": "Khanyounis",
+            "name": "MSF Spain’s Al Attar PHCC Team-1",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Mawasi MSF-Spain Fish Fresh Team-1",
+            "type": "PHC"
+        },
+        {
+            "row": 126,
+            "governorate": "Khanyounis",
+            "name": "Mawasi-Khan Younis Primary Health Care Center\/ MdM-F",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Alaqsa B Team-1",
+            "type": "PHC"
+        },
+        {
+            "row": 127,
+            "governorate": "Khanyounis",
+            "name": "Asdaa Medical Point Team-1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "Medical Point"
+        },
+        {
+            "row": 128,
+            "governorate": "Khanyounis",
+            "name": "Asdaa Medical Point Team-2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "Medical Point"
+        },
+        {
+            "row": 129,
+            "governorate": "Khanyounis",
+            "name": "Teb Alosra",
+            "storage_level": "Sub-Central",
+            "distribution_site": "PRCS Mawasi Alqarara",
+            "type": "Medical Point"
+        },
+        {
+            "row": 130,
+            "governorate": "Khanyounis",
+            "name": "shefaa alkwaity",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Japanese Health Center Team-1",
+            "type": "Medical Point"
+        },
+        {
+            "row": 131,
+            "governorate": "Khanyounis",
+            "name": "Almajaida",
+            "storage_level": "",
+            "distribution_site": "",
+            "type": ""
+        },
+        {
+            "row": 132,
+            "governorate": "Khanyounis",
+            "name": "PAL MED",
+            "storage_level": "",
+            "distribution_site": "",
+            "type": ""
+        },
+        {
+            "row": 133,
+            "governorate": "Khanyounis",
+            "name": "PHC- MSF Belgium Mawasi Khan Younis",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Japanese Health Center Team-2",
+            "type": "PHC"
+        },
+        {
+            "row": 134,
+            "governorate": "Khanyounis",
+            "name": "Husam",
+            "storage_level": "Sub-Central",
+            "distribution_site": "PRCS Mawasi Alqarara",
+            "type": "Medical Point"
+        },
+        {
+            "row": 135,
+            "governorate": "Khanyounis",
+            "name": "ICRC",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Mawasi MSF-Spain Fish Fresh Team-1",
+            "type": "Field Hospital"
+        },
+        {
+            "row": 136,
+            "governorate": "Khanyounis",
+            "name": "heroic haert bier 19-Team-1",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Mawasi MSF-Spain Fish Fresh Team-1 Zorob",
+            "type": "Medical Point"
+        },
+        {
+            "row": 137,
+            "governorate": "Khanyounis",
+            "name": "Juzoor Medical point (Al-Farouk)",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Alaqsa B Team-1",
+            "type": "Medical Point"
+        },
+        {
+            "row": 138,
+            "governorate": "Khanyounis",
+            "name": "Al-Amal Hospital-Team 1",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "Field Hospital"
+        },
+        {
+            "row": 139,
+            "governorate": "Khanyounis",
+            "name": "Al-Amal Hospital-Team 2",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "Field Hospital"
+        },
+        {
+            "row": 140,
+            "governorate": "Khanyounis",
+            "name": "PRCS Mawasi",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "Medical Point"
+        },
+        {
+            "row": 141,
+            "governorate": "Khanyounis",
+            "name": "PRCS Mawasi Alqarara",
+            "storage_level": "Central",
+            "distribution_site": "Central",
+            "type": "Medical Point"
+        },
+        {
+            "row": 142,
+            "governorate": "Khanyounis",
+            "name": "PRCS Almyna clinic",
+            "storage_level": "Sub-Central",
+            "distribution_site": "",
+            "type": "Medical Point"
+        },
+        {
+            "row": 143,
+            "governorate": "Khanyounis",
+            "name": "AWDA Health Center - Asdaa",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Asdaa Medical Point Team-1",
+            "type": "PHC"
+        },
+        {
+            "row": 144,
+            "governorate": "Khanyounis",
+            "name": "AWDA Medical Point -Al-Aqsa University Area",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Asdaa Medical Point Team-1",
+            "type": "Medical Point"
+        },
+        {
+            "row": 145,
+            "governorate": "Khanyounis",
+            "name": "Alkhar Hospital",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Alaqsa B Team-1",
+            "type": "Field Hospital"
+        },
+        {
+            "row": 146,
+            "governorate": "Khanyounis",
+            "name": "Shumukh",
+            "storage_level": "Sub-Central",
+            "distribution_site": "Japanese Health Center Team-1",
+            "type": "Medical Point"
+        }
+    ]
+}
